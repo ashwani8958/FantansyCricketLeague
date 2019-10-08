@@ -13,8 +13,7 @@ It is an game where you create a virtual team of real cricket players and score 
 # Feature
 1. Opening screen of the application. You can see the players of each category by selecting the category. To begin with, the selection is disabled until a new team is created from the Manage Teams menu. A pop up asking the name of the team appears.
 
-![alt text]
-(https://github.com/ashwani8958/FantansyCricketLeague/blob/master/MainWindow.png)
+![alt text](https://github.com/ashwani8958/FantansyCricketLeague/blob/master/MainWindow.png)
 
 
 # Point System
