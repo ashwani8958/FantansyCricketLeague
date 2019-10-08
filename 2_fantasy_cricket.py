@@ -330,7 +330,7 @@ class Ui_MainWindow(object):
                 self.listWidget_availablePlayer.addItem(item.text())
         if role == "WK":
             self.wk -= 1
-            if seld.radioButton_WK.isChecked():
+            if self.radioButton_WK.isChecked():
                 self.listWidget_availablePlayer.addItem(item.text())
         self.populate()
     ###################################### End ADD to Available player METHOD #####################################
