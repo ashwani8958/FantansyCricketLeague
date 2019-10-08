@@ -2,6 +2,7 @@
 
 # Table of content
 * Introduction
+* Feature
 * Point System
 * Installation and System requirement
 * Tool used
@@ -9,7 +10,9 @@
 # Introduction
 It is an game where you create a virtual team of real cricket players and score points depending on how your chosen players perform in real life matches. The data of the player is stored in the database which is retrived and show on the GUI based on the action of button clicked or etc.
 
-
+# Feature
+1. Opening screen of the application. You can see the players of each category by selecting the category. To begin with, the selection is disabled until a new team is created from the Manage Teams menu. A pop up asking the name of the team appears.
+![alt text]()
 # Point System
 ## Sample of Rules
 ### Batting
