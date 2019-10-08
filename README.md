@@ -63,7 +63,9 @@ It is an game where you create a virtual team of real cricket players and score 
 ## Installation
 * install PyQt5 python library using pip
 > pip install PyQt5
+
 **or**
+
 > pip3 install PyQt5
 
 # Getting Started
