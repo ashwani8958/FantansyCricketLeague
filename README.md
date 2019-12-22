@@ -1,5 +1,7 @@
 # FantansyCricketLeague
 
+# Run 2_fantasy_cricket.py to start
+
 # Table of content
 * Introduction
 * Feature
